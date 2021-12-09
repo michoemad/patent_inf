@@ -1,0 +1,41 @@
+1. A heading lock coupled to a trolling motor producing a thrust disposed to pull a watercraft, said heading lock comprising:
+a steering motor coupled to said trolling motor, said steering motor being disposed to affect the orientation of said trolling motor in response to input signals;
+a steering circuit electrically coupled to said steering motor, said steering circuit begin disposed to generate said input signals to said steering motor in response to heading signals; and
+a heading detector electrically coupled to said steering circuit, said heading detector being disposed to transmit said heading signals to said steering circuit.
+2. The heading lock of claim 1 wherein said heading detector includes a compass, said compass including a pair of light emitting diodes, said compass further including a pair of photo-transistors mounted so as to be optically coupled to said pair of light emitting diodes.
+3. The heading lock of claim 1 wherein said steering circuit comprises a microprocessor.
+4. The heading lock of claim 1 further comprising a heading designating means coupled to said steering circuit for designating a desired heading, said heading designating means generating a desired heading signal indicative of said desired heading.
+5. The heading lock of claim 4 wherein said trolling motor has a variable orientation, said orientation being selectable, the direction of said thrust being responsive to said orientation, wherein said heading detector generates a feedback signal indicative of the orientation of said trolling motor, and wherein said steering motor effects a change in said orientation in response to said feedback signal.
+6. The heading lock of claim 5 wherein said feedback signal is a digital signal, said desired heading signal is a digital signal, and said steering circuit includes a microprocessor.
+7. The heading lock of claim 6 wherein said microprocessor compares said feedback signal with said desired heading signal and provides an output signal in response to said comparison.
+8. The heading lock of claim 5 wherein said feedback signal is an analog signal and said desired heading signal is an analog signal.
+9. The heading lock of claim 4 wherein said heading designating means includes a user actuated switch, said switch having a variable position, said variable position being selectable, and wherein said desired heading signal is responsive to said variable positions.
+10. The heading lock of claim 1 wherein said trolling motor precedes said watercraft in a desired heading.
+11. A heading lock for a bow-mounted motor, said motor having a thrust, comprising:
+a steering motor connected to said bow-mounted motor and controllable by a steering signal input;
+a heading detector circuit having a first output indicative of the heading of the thrust of the motor;
+a desired heading circuit having a second output indicative of a desired heading; and
+a steering control circuit comparing said first output to said second output and generating said steering signal input based on the difference between said first output and said second output.
+12. The heading lock of claim 11 further comprising a compass coupled to said heading detector circuit, said compass including a pair of light emitting diodes, said compass further including a pair of photo-transistors mounted so as to be optically coupled to said pair of light emitting diodes.
+13. The heading lock of claim 11 wherein said steering control circuit comprises a microprocessor.
+14. The heading lock of claim 13 wherein said first output is a digital signal and said second output is a digital signal.
+15. The heading lock of claim 11 further comprising a heading designating means coupled to said desired heading circuit for designating said desired heading.
+16. The heading lock of claim 15 wherein said bow-mounted motor has a variable orientation, said orientation being selectable, and wherein the direction of said thrust is determined by said orientation.
+17. The heading lock of claim 15 wherein said heading designating means includes a user actuated switch, said switch having a variable position, said variable position being selectable, and wherein said second output is responsive to said variable position.
+18. The heading lock of claim 11 wherein said first output is an analog signal and said second output is an analog signal.
+19. The heading lock of claim 11 wherein said bow-mounted motor precedes said watercraft in said desired heading.
+20. A heading lock for a bow-mounted motor, said motor producing a thrust, said heading lock comprising:
+a heading detector disposed to detect the heading of the thrust of said bow-mounted motor and provide a thrust heading signal indicative of the heading of the thrust;
+means for designating a desired heading, said designating means providing a desired heading signal representative of said desired heading; and
+means for directing said thrust in said desired heading in response to said thrust heading signal and said desired heading signal.
+21. The heading lock of claim 20 wherein said heading detector includes a compass, said compass including a pair of light emitting diodes, said compass further including a pair of photo-transistors mounted so as to be optically coupled to said pair of light emitting diodes.
+22. The heading lock of claim 20 wherein said directing means comprises a microprocessor.
+23. The heading lock of claim 20 wherein said bow-mounted motor has a variable orientation, said orientation being selectable, and wherein the direction of said thrust is determined by said orientation.
+24. The heading lock of claim 20 wherein said thrust heading signal is a digital signal and said desired heading signal is a digital signal.
+25. The heading lock of claim 20 wherein said thrust heading signal is an analog signal and said desired heading signal is an analog signal.
+26. The heading lock of claim 20 wherein said designating means includes a user actuated switch, said switch having a variable position, said variable position being selectable, and wherein said desired heading signal is responsive to said variable position.
+27. The heading lock of claim 20 wherein said bow-mounted motor precedes said watercraft in said desired heading.
+28. A heading lock for a bow-mounted motor, comprising:
+a heading detector disposed to detect the heading of said bow-mounted motor and provide a motor heading signal indicative of the heading of the motor;
+means for designating a desired motor heading, said designating means providing a desired motor heading signal representative of said desired motor heading; and
+means for directing said motor in said desired motor heading in response to said motor heading signal and said desired motor heading signal.

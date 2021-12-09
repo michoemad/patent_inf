@@ -1,0 +1,17 @@
+1. A normally solid homopolymer of 4-methyl-1-pentene.
+2. A polymer of claim 1 having a melting point in the range of 390° to 425° F.
+3. A normally solid crystalline homopolymer of 4-methyl-1-pentene.
+4. The polymer of claim 3 having a melting point in the range of 390° F. to 425° F.
+5. The homopolymer of 4-methyl-1-pentene according to claim 4 characterized by a melting point of 394° to 421° F.
+6. The homopolymer of 4-methyl-1-pentene according to claim 4 characterized by a melting point of 410° to 420° F.
+7. Filaments, suitable for textiles, of a tough, crystalline homopolymer of 4-methyl-1-pentene.
+8. Films, suitable for packaging, of a tough, crystalline homopolymer of 4-methyl-1-pentene.
+9. A tough solid crystalline homopolymer of 4-methyl-1-pentene characterized as insoluble in methylisobutyl ketone, chloroform, carbon tetrachloride, symmetrical dichloroethane, benzene, n-pentane, n-hexane, and n-heptane, at temperatures up to the boiling point of these solvents at atmospheric pressure.
+10. A normally solid crystalline homopolymer of 4-methyl-1-pentene prepared by contacting 4-methyl-1-pentene monomer under polymerization conditions with a catalyst comprising chromium oxide associated with at least one oxide selected from the group consisting of silica, alumina, zirconia, thoria, and composites wherein at least some of the chromium of some chromium oxide is in the hexavalent state.
+11. The homopolymer according to claim 10 wherein said catalyst contains an amount of chromium, as chromium oxide, in the range of 0.1 to 20 weight percent.
+12. A normally solid tough crystalline homopolymer of 4-methyl-1-pentene prepared by contacting 4-methyl-1-pentene monomer under polymerization conditions with a catalyst comprising chromium oxide associated with at least one oxide selected from the group consisting of silica, alumina, zirconia, and thoria, or a composite, wherein said chromium oxide catalyst is prepared by impregnation of one of said oxides with a solution of chromium oxide or a compound convertible to the oxide by calcination, followed by drying and activation of the resulting catalyst composite at a temperature in the range of 450° to 1500° F. for an effective time, wherein the amount of chromium, as chromium oxide, in the resulting activated catalyst ranges from about 0.1 to 20 weight percent, wherein at least some of the chromium in said chromium oxide is in the hexavalent state.
+13. The process of preparing a homopolymer of 4-methyl-1-pentene which comprises the steps of:
+(a) dimerizing propylene over nickel oxide-silica-alumina catalyst to produce a dimer admixture containing 4-methyl-1-pentene, 4-methyl-2-pentene, 2-methyl-2-pentene, and 1-,2-, and 3-hexene,
+(b) fractionating said admixture to produce fractions of (1) 4-methyl-1-pentene, (2) 4-methyl-2-pentene, (3) 1-hexane, and (4) 2- and 3-hexene,
+(c) isomerizing the 4-methyl-2-pentene to further 4-methyl-1-pentene, and
+(d) polymerizing the fraction of 4-methyl-1-pentene and the further 4-methyl-1-pentene to 4-methyl-1-pentene crystalline homopolymer under polymerization conditions employing a catalyst of a chromium oxide supported on at least one oxide of silica, alumina, zirconia, and thoria, wherein at least some of said chromium and said chromium oxide is in the hexavalent state.

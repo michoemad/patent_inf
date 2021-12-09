@@ -1,0 +1,37 @@
+1. A monoclonal antibody that binds to a human breast cancer antigen that is also bound by monoclonal antibody 454C11 which is produced by the hybridoma deposited with the American Type Culture Collection having Accession No. HB 8484.
+2. The monoclonal antibody of claim 1, wherein the monoclonal antibody exhibits strong staining intensity as determined in an immunoassay with three or less of the normal tissues and blood cells selected from the group consisting of pancreas, esophagus, lung, kidney, colon, stomach, brain, tonsil, liver, heart, ovary, skin, breast, platelets, red cells, lymphocytes, monocytes and granulocytes.
+3. The monoclonal antibody of claim 2, wherein the monoclonal antibody binds to the extracellular domain of the human breast cancer antigen.
+4. The monoclonal antibody of claim 1, wherein the monoclonal antibody exhibits strong staining intensity as determined in an immunoassay with one or less of the normal tissues and blood cells selected from the group consisting of pancreas, esophagus, lung, kidney, colon, stomach, brain, tonsil, liver, heart, ovary, skin, breast, platelets, red cells, lymphocytes, monocytes and granulocytes.
+5. The monoclonal antibody of claim 1, wherein the monoclonal antibody binds to at least one human breast cancer cell line.
+6. The monoclonal antibody of claim 5, wherein the human breast cancer cell line is at least one cell line selected from the group consisting of SKBr3 and BT483.
+7. The monoclonal antibody of claim 1, wherein the monoclonal antibody binds to the extracellular domain of the human breast cancer antigen.
+8. The monoclonal antibody of claim 1, wherein the human breast cancer antigen is c-erbB-2.
+9. A monoclonal antibody that binds to a human breast cancer antigen that is also bound by monoclonal antibody 520C9 which is produced by the hybridoma deposited with the American Type Culture Collection having Accession No. HB 8696.
+10. The monoclonal antibody of claim 9, wherein the monoclonal antibody exhibits strong staining intensity as determined in an immunoassay with three or less of the normal tissues and blood cells selected from the group consisting of pancreas, esophagus, lung, kidney, colon, stomach, brain, tonsil, liver, heart, ovary, skin, breast, platelets, red cells, lymphocytes, monocytes and granulocytes.
+11. The monoclonal antibody of claim 10, wherein the monoclonal antibody binds to the extracellular domain of the human breast cancer antigen.
+12. The monoclonal antibody of claim 9, wherein the monoclonal antibody exhibits strong staining intensity as determined in an immunoassay with one or less of the normal tissues and blood cells selected from the group consisting of pancreas, esophagus, lung, kidney, colon, stomach, brain, tonsil, liver, heart, ovary, skin, breast, platelets, red cells, lymphocytes, monocytes and granulocytes.
+13. The monoclonal antibody of claim 9, wherein the monoclonal antibody binds to at least one human breast cancer cell line.
+14. The monoclonal antibody of claim 13, wherein the human breast cancer cell line is at least one cell line selected from the group consisting of SKBr3 and BT483.
+15. The monoclonal antibody of claim 9, wherein the monoclonal antibody binds to the extracellular domain of the human breast cancer antigen.
+16. The monoclonal antibody of claim 9, wherein the breast cancer antigen is also bound by monoclonal antibody 454C11 which is produced by the hybridoma deposited with the American Type Culture Collection having Accession No. HB 8484.
+17. The monoclonal antibody of claim 9, wherein the human breast cancer antigen is also bound by monoclonal antibodies 452F2 and 741F8 which are produced, respectively, by the hybridomas deposited with the American Type Culture Collection having Accession Nos. HB HB110811 and HB10807.
+18. The monoclonal antibody of claim 9, wherein the human breast cancer antigen is c-erbB-2.
+19. A monoclonal antibody that binds to human c-erbB-2 antigen.
+20. The monoclonal antibody of claim 19, wherein the monoclonal antibody exhibits strong staining intensity as determined in an immunoassay with three or less of the normal tissues and blood cells selected from the group consisting of pancreas, esophagus, lung, kidney, colon, stomach, brain, tonsil, liver, heart, ovary, skin, breast, platelets, red cells, lymphocytes, monocytes and granulocytes.
+21. The monoclonal antibody of claim 20, wherein the monoclonal antibody binds to the extracellular domain of human c-erbB-2 antigen.
+22. The monoclonal antibody of claim 19, wherein the monoclonal antibody exhibits strong staining intensity as determined in an immunoassay with one or less of the normal tissues and blood cells selected from the group consisting of pancreas, esophagus, lung, kidney, colon, stomach, brain, tonsil, liver, heart, ovary, skin, breast, platelets, red cells, lymphocytes, monocytes and granulocytes.
+23. The monoclonal antibody of claim 19, wherein the monoclonal antibody binds to at least one human breast cancer cell line.
+24. The monoclonal antibody of claim 23, wherein the human breast cancer cell line is at least one cell line selected from the group consisting of SKBr3 and BT483.
+25. The monoclonal antibody of claim 19, wherein the monoclonal antibody binds to the extracellular domain of human c-erbB-2 antigen.
+26. The monoclonal antibody of claim 1, prepared by a process comprising:
+(a) providing a hybridoma capable of producing the monoclonal antibody; and
+(b) culturing the hybridoma under conditions that provide for the production of the monoclonal antibody by the hybridoma.
+27. The monoclonal antibody of claim 1, prepared by a process comprising:
+(a) providing a hybridoma capable of producing the monoclonal antibody; and
+(b) culturing the hybridoma under conditions that provide for the production of the monoclonal antibody by the hybridoina.
+28. The monoclonal antibody of claim 19, prepared by a process comprising:
+(a) providing a hybridoma capable of producing the monoclonal antibody; and
+(b) culturing the hybridoma under conditions that provide for the production of the monoclonal antibody by the hybridoma.
+29. A hybridoma that produces the monoclonal antibody of claim 1.
+30. A hybridoma that produces the monoclonal antibody of claim 9.
+31. A hybridoma that produces the monoclonal antibody of claim 19.
